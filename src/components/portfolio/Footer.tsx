@@ -44,7 +44,7 @@ export function Footer() {
           </div>
 
           <div className="max-w-full font-mono text-[10px] text-white/40 sm:text-[11px]">
-            (c) {new Date().getFullYear()} Devender Kumar
+            (c) {new Date().getFullYear()} codeskaro
           </div>
         </div>
       </div>
